@@ -1,4 +1,3 @@
-//import Web3 from 'web3'
 import 'bulma/css/bulma.css'
 import styles from './VendingMachine.module.css'
 import ConnectWalletButton from './connect-wallet-button'
